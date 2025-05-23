@@ -1,6 +1,7 @@
 # OpenAI到Akash Network的API代理 v2.0
 
 这是一个基于FastAPI的代理服务，可以将OpenAI格式的API请求转换为chat.akash.network的格式，并将响应转换回OpenAI格式。使用这个代理，您可以通过OpenAI兼容的客户端访问Akash Network上的多种AI大模型。
+本项目由AI撰写，含量100%。
 
 ## 🆕 新功能亮点
 
@@ -252,6 +253,7 @@ TIMEOUT=30.0
 - 🔐 半自动化功能需要 Chrome 浏览器支持
 - 🌍 建议在网络环境良好时使用
 - 🤝 如需更高成功率，可考虑专业的验证码解决服务
+- 🕐 网站更新可能导致项目失效
 
 ## 📚 相关文档
 
